@@ -74,3 +74,39 @@ Conflict Resolving, Pull Request
 - lấy link và pass vào file code trên github or file code chính của bạn 
 - nếu bạn sửa trên github bạn cần pull về code chính của bạn
 - nếu bạn sửa trong code chính bạn cần push lên github.
+
+#Nâng cao (Branch, Merge)
+
+##CÁC LỆNH CƠ BẢN
+---
+cơ bản
+  - git branch
+  - git checkout
+  - git merge
+
+nâng cao
+  - git rebase
+  - git cherry - pick
+
+![7d050654-0ea2-4d4d-b3ad-4c8c4fc748ed](https://github.com/Nan27Hid/GitHup/assets/135946173/a6426c9c-6d59-4459-932a-0d39276ebd30)
+
+
+- ở các công ty thì người ta sẽ tạo thêm một cái Pull Request
+#PULL REQUEST LÀ GÌ
+---
+- là cái làm hiển thị các thay đổi của code, khi các bạn làm gì thì khi đọc cái pull request thì người ta biết được là bạn đã thay đổi những gì trong code, nó giúp gôm lại, và người ta sẽ review cái code đó khi mà cái code đó oke thì người ta mới accept cái pull request. tức là người ta mới merge cái thay đổi đó vào cái branch master.
+- đơn giản chỉ là: ê code nè, merge giùm đi
+- giúp commit ngắn gọn hơn
+- hỗ trợ code review, ngăn code ẩu
+
+
+Các bước để add branch:
+---
+- git branch ten_branch
+- git branch
+- git checkout ten_branch
+- git branch 
+or có thể sd: git checkout -b ten_branch  (cái này vừa tạo branch vừa checkout)
+
+- tạo code mới trong Vscode
+- thêm nó vào branch mới
