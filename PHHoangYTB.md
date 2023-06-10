@@ -47,5 +47,6 @@ Conflict Resolving, Pull Request
 - git log
 - git log --decorate --graph --oneline
 
-![picture 1](../images/568ed83995e2bec3ce09696947e1d0a046b824a4011bdd441a4ccac90136709d.png)  
+
+![d38b4f4b-b4df-4677-9ef0-db86f3d37e95](https://github.com/Nan27Hid/GitHup/assets/135946173/2971d646-b1f6-49c5-88d8-a65115d4ef6b)
 
