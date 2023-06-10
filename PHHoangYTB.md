@@ -110,3 +110,6 @@ or có thể sd: git checkout -b ten_branch  (cái này vừa tạo branch vừa
 
 - tạo code mới trong Vscode
 - thêm nó vào branch mới
+- add commit nó lên cái branch mới
+- check code trên branch nếu ok và bạn muốn nó vào code chính của bạn
+- git merge add tên_branch
