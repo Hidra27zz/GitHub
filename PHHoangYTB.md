@@ -48,4 +48,3 @@ Conflict Resolving, Pull Request
 - git log --decorate --graph --oneline
 
 ![picture 1](../images/568ed83995e2bec3ce09696947e1d0a046b824a4011bdd441a4ccac90136709d.png)  
-
